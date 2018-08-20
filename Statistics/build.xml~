@@ -1,0 +1,13 @@
+<project name="SimpleProject" 
+         default="compile">
+
+  <target name="init">
+    <mkdir dir="build/classes"/>
+  </target>
+
+  <target name="compile"
+          depends="init">
+    <javac srcdir="."
+        destdir="build/classes"/>
+  </target>
+</project>

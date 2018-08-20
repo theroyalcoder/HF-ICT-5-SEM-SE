@@ -1,1 +1,3 @@
 Main-Class: ch.hfict.math.Main
+background: green
+license: hfict
