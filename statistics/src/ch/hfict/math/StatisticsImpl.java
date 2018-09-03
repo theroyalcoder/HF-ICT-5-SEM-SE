@@ -25,3 +25,4 @@ public class StatisticsImpl implements Statistics {
     return sum / numbers.size();
   }
 }
+
