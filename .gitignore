@@ -1,10 +1,4 @@
 #
-# Project specific excludes
-#
-
-tomcat
-
-#
 # Default excludes
 #
 
@@ -54,3 +48,7 @@ nb-configuration.xml
 release.properties
 pom.xml.releaseBackup
 pom.xml.tag
+
+#Thomson
+/_Eclipse/.metadata/
+/_Eclipse/.recommenders/
